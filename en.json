@@ -1,0 +1,69 @@
+{
+  "navbar": {
+    "home": "Home",
+    "education": "Experience",
+    "technologies": "Technologies",
+    "contact": "Contact Me"
+  },
+  "hero": {
+    "hello": "Hello, I am",
+    "typed": "I am",
+    "description": "I am a Software Development Engineering student, passionate about technology, application development, and automating manual and repetitive processes.",
+    "resume": "Resume",
+    "contact": "Contact Me"
+  },
+  "education": {
+    "title": "Work Experience",
+    "timeline": [
+      {
+        "year": "November 2021 - Present",
+        "title": "Freelancer",
+        "description": "As a developer and cloud server administrator, I have created innovative applications and websites, implemented automated solutions, and executed digital marketing strategies."
+      },
+      {
+        "year": "August 2023 – Present",
+        "title": "Technical Lead | Process Automation + DEV | Growth Marketing",
+        "description": "As a technical lead at Qusek, I directed automation and optimization projects, developed APIs, and improved manual data processes by making them automatic."
+      }
+    ]
+  },
+  "education2": {
+    "title": "Academic Background",
+    "timeline": [
+      {
+        "year": "August 2018 - June 2022",
+        "title": "Instituto Morelos",
+        "description": "Completed High School, where I developed teamwork and under-pressure work skills."
+      },
+      {
+        "year": "January 2024 - Present",
+        "title": "Universidad Tecmilenio",
+        "description": "Currently pursuing a Bachelor's degree in Software Development, acquiring advanced knowledge in programming and application development."
+      }
+    ]
+  },
+  "technologies": {
+    "title": "",
+    "frontEnd": " ",
+    "backEnd": " ",
+    "learning": " ",
+    "tools": " "
+  },
+  "contact": {
+    "title": "Contact",
+    "me": "Me",
+    "description": "If you have any questions and/or want me to be part of your team, you can fill out the form or contact me through these means:",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "button": "Send Message"
+    }
+  },
+  "footer": {
+    "site": "Software",
+    "createdBy": "Engineering",
+    "partiallyCreated": "Ángel Alcántara"
+  }
+}

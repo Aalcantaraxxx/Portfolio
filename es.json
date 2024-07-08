@@ -1,0 +1,69 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "education": "Experiencia",
+    "technologies": "Tecnologías",
+    "contact": "Contáctame"
+  },
+  "hero": {
+    "hello": "¡Hola, soy",
+    "typed": "Soy",
+    "description": "Soy un estudiante de la Ingeniería en Desarrollo de Software, apasionado por la tecnología, desarrollo de aplicaciones y automatización de procesos manuales y repetitivos.",
+    "resume": "CV",
+    "contact": "Contáctame"
+  },
+  "education": {
+    "title": "Experiencia Laboral",
+    "timeline": [
+      {
+        "year": "Noviembre 2021 - Presente",
+        "title": "Freelancer",
+        "description": "Como desarrollador y administrador de servidores en la nube, he creado aplicaciones y sitios web innovadores, implementado soluciones automatizadas y ejecutado estrategias de marketing digital."
+      },
+      {
+        "year": "Agosto 2023 – Actualidad",
+        "title": "Technical Lead | Proccess Automation + DEV | Growth Marketing |",
+        "description": "Líder técnico en Qusek, dirigí proyectos de automatización y optimización, desarrollando APIs y mejorando procesos manuales de datos y hacerlos automáticos."
+      }
+    ]
+  },
+  "education2": {
+    "title": "Formación Académica",
+    "timeline": [
+      {
+        "year": "Agosto 2018 - Junio 2022",
+        "title": "Instituto Morelos",
+        "description": "Bachillerato Concluido, donde desarrollé habilidades de trabajo en equipo y bajo presión."
+      },
+      {
+        "year": "Enero 2024 - Presente",
+        "title": "Universidad Tecmilenio",
+        "description": "Actualmente cursando la Licenciatura en Desarrollo de Software, adquiriendo conocimientos avanzados en programación y desarrollo de aplicaciones."
+      }
+    ]
+  },
+  "technologies": {
+    "title": "",
+    "frontEnd": " ",
+    "backEnd": " ",
+    "learning": " ",
+    "tools": " "
+  },
+  "contact": {
+    "title": "Contácta",
+    "me": "me",
+    "description": "Si tienes alguna duda y/o quieres que forme parte de tu equipo , puedes rellenar el formulario o contactar a través de estos medios:",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "button": "Enviar mensaje"
+    }
+  },
+  "footer": {
+    "site": "Software",
+    "createdBy": "Engineering",
+    "partiallyCreated": "Ángel Alcántara"
+  }
+}
